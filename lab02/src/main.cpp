@@ -1,6 +1,7 @@
 #include <iostream>
 #include "invoice.h"
 #include "textprinter.h"
+using namespace std;
 
 int main() {
     Invoice invoice;
